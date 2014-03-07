@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="127px" height="196px" viewBox="0 0 127 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>tree</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="tree" sketch:type="MSLayerGroup" transform="translate(-3.000000, 0.000000)">
+            <path d="M55,111 C55,111 58.0000005,140 54,161 C50,182 36,196 36,196 L57,183 L71,194 L75,179 L103,195 C103,195 81.9999995,172 82,158 C82,144 74,107 74,107 L55,111 Z" id="Path-1" fill="#7B5B48" sketch:type="MSShapeGroup"></path>
+            <polygon id="Polygon-1" fill="#2EC862" sketch:type="MSShapeGroup" points="66.5 0 129.745258 43.5319294 105.587719 113.968071 27.4122807 113.968071 3.25474167 43.5319294 "></polygon>
+        </g>
+    </g>
+</svg>

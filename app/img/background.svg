@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="810px" height="591px" viewBox="0 0 810 591" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>background</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#38F78F" offset="0%"></stop>
+            <stop stop-color="#31F762" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#7CF4FF" offset="0%"></stop>
+            <stop stop-color="#65F2FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="background" sketch:type="MSLayerGroup">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <g id="background">
+                    <rect id="ground" fill="url(#linearGradient-1)" x="0" y="340" width="810" height="251"></rect>
+                    <path d="M0,0 L0,367 C0,367 107.013817,349 159,349 C224.413125,349 306.38331,370.731511 393,373 C471.473795,375.055227 559.987607,355.314492 629,354 C737.690958,351.929744 810,367 810,367 L810,0 L0,0 Z" id="ski" fill="url(#linearGradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

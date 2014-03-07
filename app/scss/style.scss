@@ -1,0 +1,99 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
+@import url(http://fonts.googleapis.com/css?family=Gochi+Hand);
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-image: url(/img/backgroundtexture.png);
+}
+
+.selected {
+  // border: 1px dotted red;
+  background-color: rgba(0,0,0,0.1)
+}
+
+.stamp {
+  position: absolute;
+}
+
+#icons {
+  background-color: #b272f3;
+  border-right: 1px solid #000;
+  border-left: 1px solid #000;
+  border-top: 1px solid #000;
+  height: 90vh;
+}
+
+.hiddenScroll {
+  overflow: auto;
+  width: 120%;
+  height: 90vh;
+}
+
+#canvas {
+  height: 90vh;
+  background-image: url(/img/background.svg);
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: hidden;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+}
+
+.icon {
+  margin: 30px 63px;
+  display: block;
+  width: 100px;
+  padding: 10px;
+}
+
+#menu {
+  background-color: #f8df62;
+  border: 1px solid black;
+  height: 10vh;
+}
+
+h1 {
+  color: #20c7ff;
+  margin-top: 17px;
+  margin-left: 25px;
+  float: left;
+  font-family: 'Gochi Hand', cursive;
+}
+
+button {
+  float: right;
+  background-color: #ff50d1;
+  -moz-border-radius:30px;
+  -webkit-border-radius:30px;
+  border-radius:30px;
+  font-size: 160%;
+  margin-top: 10px;
+  outline: none;
+}
+
+footer#main {
+  background-color: #2d2d2d;
+  padding-top: 50px;
+}
+
+footer#main p {
+  font-weight: 300;
+  color: #bbb;
+  font-size: 0.8em;
+  text-align: center;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -20em;
+}
+
+footer#main, .push {
+  height: 20em;
+}
